@@ -153,7 +153,7 @@ Install all examples.
 {{/option}}
 
 {{#option "`--root` _dir_" }}
-Directory to install packages into.
+Directory to install packages into. For example `--root /usr/local` will install your binaries in `/usr/local/bin`.
 {{/option}}
 
 {{> options-registry }}
